@@ -1,16 +1,25 @@
 {
   "devDependencies": {
+    "@angular-devkit/build-angular": "^19.2.13",
     "@angular/cli": "^19.2.13",
+    "@angular/common": "^19.2.13",
+    "@angular/compiler": "^19.2.13",
+    "@angular/compiler-cli": "^19.2.13",
+    "@angular/core": "^19.2.13",
+    "@angular/forms": "^19.2.13",
+    "@angular/platform-browser": "^19.2.13",
+    "@angular/platform-browser-dynamic": "^19.2.13",
+    "@angular/router": "^19.2.13",
     "@nestjs/cli": "^11.0.7",
+    "@nestjs/common": "^11.1.1",
+    "@nestjs/core": "^11.1.1",
+    "@nestjs/platform-express": "^11.1.1",
     "@nx/angular": "^21.1.1",
     "@nx/nest": "^21.1.1",
-    "@prisma/client": "^6.8.2"
+    "@prisma/client": "^6.8.2",
+    "nx": "21.1.1"
   },
   "dependencies": {
-    "@angular/common": "^19.2.12",
-    "@angular/core": "^19.2.12",
-    "@angular/platform-browser": "^19.2.12",
-    "@angular/platform-browser-dynamic": "^19.2.12",
-    "@angular/router": "^19.2.12"
+    "prisma": "^6.8.2"
   }
 }
