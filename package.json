@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "start:frontend": "nx serve frontend",
     "start:backend": "nx serve backend",
     "start:website": "nx serve website",
     "start:admin": "nx serve admin",
