@@ -44,3 +44,7 @@ yarn-error.log*
 
 # Angular
 .angular/
+
+# Next.js
+.next
+out
