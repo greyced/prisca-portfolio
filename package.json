@@ -3,9 +3,10 @@
     "start:frontend": "nx serve frontend",
     "start:backend": "nx serve backend",
     "start:website": "nx serve website",
-    "build": "nx build backend && nx build frontend && nx build website",
-    "test": "nx test backend && nx test frontend && nx test website",
-    "lint": "nx lint backend && nx lint frontend && nx lint website"
+    "start:admin": "nx serve admin",
+    "build": "nx build backend && nx build admin && nx build website",
+    "test": "nx test backend && nx test admin && nx test website",
+    "lint": "nx lint backend && nx lint admin && nx lint website"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^19.2.13",

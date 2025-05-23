@@ -82,7 +82,7 @@
     "website": "apps/website",
     "website-e2e": "apps/website-e2e",
     "backend": "apps/backend",
-    "frontend": "apps/frontend",
+    "admin": "apps/admin",
     "prisma": "libs/prisma"
   }
 }
